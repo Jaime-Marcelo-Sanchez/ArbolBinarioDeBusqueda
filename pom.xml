@@ -11,4 +11,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>msj.arbolbinario.Arbolbinario</exec.mainClass>
     </properties>
+    <name>ArbolBinarioDeBusqueda</name>
 </project>
